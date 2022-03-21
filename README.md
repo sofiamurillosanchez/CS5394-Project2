@@ -1,2 +1,2 @@
-# Project2-Randolph-Sofia
+# CS5394
  
